@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-30T00:37:38 JST" name="Default Suite" finished-at="2024-12-30T00:37:45 JST" duration-ms="6479">
+    <groups>
+    </groups>
+    <test started-at="2024-12-30T00:37:38 JST" name="TestAPIJsonPlaceHolder" finished-at="2024-12-30T00:37:45 JST" duration-ms="6479">
+      <class name="TestRestAPI">
+        <test-method signature="testAPI()[pri:0, instance:TestRestAPI@2893de87]" started-at="2024-12-30T00:37:38 JST" name="testAPI" finished-at="2024-12-30T00:37:44 JST" duration-ms="6396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAPI -->
+      </class> <!-- TestRestAPI -->
+    </test> <!-- TestAPIJsonPlaceHolder -->
+  </suite> <!-- Default Suite -->
+</testng-results>
